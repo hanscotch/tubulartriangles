@@ -1,0 +1,4 @@
+i'm learning to push things to git and this is my first attempt. 
+i'm a little fuzzy on exactly how this all works but i'm sure it will come together soon enough.
+
+it looks like it got moved up to github! very coool but i'm still not 100% sure what i'm doing
